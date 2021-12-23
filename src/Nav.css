@@ -1,0 +1,24 @@
+.nav{
+ display: flex;
+ justify-content: space-around;
+ background-color: khaki;
+}
+ul{
+    display: flex;
+
+}
+
+nav .navbar-brand{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+ul li{
+    margin: 10px;
+    list-style-type: none; 
+}
+
+ul li a{
+    color: midnightblue;
+    text-decoration: none;
+}
