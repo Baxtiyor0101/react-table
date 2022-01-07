@@ -1,0 +1,25 @@
+
+
+[
+    {
+        "name":"Baxtiyor",
+        "age":21,
+        "isStudent":true,
+        "country":"Uzbekistan",
+        "phone":99898988766
+    },
+    {
+        "name":"Abbos",
+        "age":22,
+        "isStudent":false,
+        "country":"Uzbekistan",
+        "phone":99898988555
+    },
+    {
+        "name":"Javohir",
+        "age":24,
+        "isStudent":false,
+        "country":"USA",
+        "phone":99898944466
+    }
+]
